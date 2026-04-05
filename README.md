@@ -1,3 +1,5 @@
+<img width="250" height="250" alt="Collage" src="https://github.com/user-attachments/assets/e88741c7-f175-4f62-b9d1-bb8577091893" />
+
 # WinUI Blank App (Unpackaged) - Visual Studio Template
 
 A custom Visual Studio project template for creating **unpackaged WinUI 3 desktop applications** with a ready-to-run `.exe` file.
